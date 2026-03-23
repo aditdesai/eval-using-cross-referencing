@@ -227,6 +227,201 @@ x + 1 & \text{if } x \geq -3
 The equation for the graphed function f is $f(x) = |x + 1|$ for $x \geq -3$ and $f(x) = -x - 5$ for $x < -3$. However, since the graph is continuous at $x = -3$, we can simplify it to $f(x) = |x + 1|$ for all $x$. Therefore, the final answer is $f(x) = |x + 1|$.
     </td>
   </tr>
+  <tr>
+    <td align = "center"> Original Text + Answer Disturbing Image</td>
+    <td align = "center"> There is a piecewise function combind by straight lines going through (3, -2), (1, 0), and (0,1). Write an equation for the graphed function f. <br> 
+      <img src = "https://github.com/user-attachments/assets/743eb81a-0409-49ff-8ca2-966706963ade" width = "150"/>
+    </td>
+    <td align = "center">
+      Okay, let's break down this piecewise function problem.
+
+**1. Identify the Line Segments**
+
+From the graph, we can see three line segments:
+
+*   **Segment 1:** Passes through (3, -2) and (1, 0)
+*   **Segment 2:** Passes through (1, 0) and (0, 1)
+*   **Segment 3:** Passes through (0, 1) and (x, y) - we can see this is a vertical line at x=0.
+
+**2. Find the Equations of the Lines**
+
+*   **Segment 1 (3, -2) and (1, 0):**
+    *   Slope (m) = (y2 - y1) / (x2 - x1) = (0 - (-2)) / (1 - 3) = 2 / -2 = -1
+    *   Using the point-slope form: y - y1 = m(x - x1)
+    *   Using point (3, -2): y - (-2) = -1(x - 3)
+    *   y + 2 = -x + 3
+    *   y = -x + 1
+
+*   **Segment 2 (1, 0) and (0, 1):**
+    *   Slope (m) = (y2 - y1) / (x2 - x1) = (1 - 0) / (0 - 1) = 1 / -1 = -1
+    *   Using the point-slope form: y - y1 = m(x - x1)
+    *   Using point (1, 0): y - 0 = -1(x - 1)
+    *   y = -x + 1
+
+*   **Segment 3 (0, 1):**
+    *   This is a vertical line, so its equation is x = 0
+
+**3. Write the Piecewise Function**
+
+Now, we combine these equations into a piecewise function:
+
+f(x) =
+*   -x + 1,  if x < 0
+*   -x + 1,  if 0 <= x <= 1
+*   -x + 1,  if 1 < x <= 3
+*   -x + 1,  if x > 3
+
+**Important Note:** The graph shows a sharp turn at x=0. The equation for the line segment from (1,0) to (0,1) is y = -x + 1. However, the graph shows that the function is defined as y = -x + 1 for x < 0, and y = -x + 1 for 0 <= x <= 1.
+
+**Final Answer:**
+
+f(x) =
+*   -x + 1,  if x < 0
+*   -x + 1,  if 0 <= x <= 1
+*   -x + 1,  if 1 < x <= 3
+*   -x + 1,  if x > 3
+    </td>
+    <td align = "center">
+      To find the equation of the piecewise function that passes through the points (3, -2), (1, 0), and (0, 1), we need to determine the equations of the lines that connect these points.
+
+1. **Line through (3, -2) and (1, 0):**
+
+   - Calculate the slope (m) using the formula \( m = \frac{y_2 - y_1}{x_2 - x_1} \):
+     \[
+     m = \frac{0 - (-2)}{1 - 3} = \frac{2}{-2} = -1
+     \]
+
+   - Use the point-slope form of the equation of a line, \( y - y_1 = m(x - x_1) \), using the point (1, 0):
+     \[
+     y - 0 = -1(x - 1)
+     \]
+     \[
+     y = -x + 1
+     \]
+
+2. **Line through (1, 0) and (0, 1):**
+
+   - Calculate the slope (m) using the formula \( m = \frac{y_2 - y_1}{x_2 - x_1} \):
+     \[
+     m = \frac{1 - 0}{0 - 1} = \frac{1}{-1} = -1
+     \]
+
+   - Use the point-slope form of the equation of a line, \( y - y_1 = m(x - x_1) \), using the point (0, 1):
+     \[
+     y - 1 = -1(x - 0)
+     \]
+     \[
+     y = -x + 1
+     \]
+
+3. **Line through (0, 1) and (-3, 4):**
+
+   - Calculate the slope (m) using the formula \( m = \frac{y_2 - y_1}{x_2 - x_1} \):
+     \[
+     m = \frac{4 - 1}{-3 - 0} = \frac{3}{-3} = -1
+     \]
+
+   - Use the point-slope form of the equation of a line, \( y - y_1 = m(x - x_1) \), using the point (0, 1):
+     \[
+     y - 1 = -1(x - 0)
+     \]
+     \[
+     y = -x + 1
+     \]
+
+Since all the lines have the same slope and y-intercept, the equation of the graphed function \( f \) is:
+\[
+f(x) = -x + 1
+\]
+    </td>
+    <td align = "center">
+    **Step 1: Identify the coordinates of the given points.**
+
+The graph passes through the points $(3, -2), (1, 0),$ and $(0,1)$.
+
+**Step 2: Determine the equations of the lines.**
+
+To find the equation of a line passing through two points $(x_1, y_1)$ and $(x_2, y_2)$, we use the formula for slope:
+
+$m = \frac{y_2 - y_1}{x_2 - x_1}$
+
+and then apply the point-slope form of a line:
+
+$y - y_1 = m(x - x_1)$
+
+### Equation of the line passing through $(0,1)$ and $(1,0)$:
+
+- Slope $m_1 = \frac{0 - 1}{1 - 0} = -1$
+- Using point-slope form with $(0,1)$:
+  $y - 1 = -1(x - 0)$
+  $y = -x + 1$
+
+### Equation of the line passing through $(1,0)$ and $(3,-2)$:
+
+- Slope $m_2 = \frac{-2 - 0}{3 - 1} = -1$
+- Using point-slope form with $(1,0)$:
+  $y - 0 = -1(x - 1)$
+  $y = -x + 1$
+
+However, since the slopes are the same, these two points are on the same line as the previous pair.
+
+### Equation of the line passing through $(3,-2)$ and extending beyond:
+
+Given that the function seems to have a V-shape with the vertex at $(3, -2)$, let's assume the line after $(3,-2)$ has a different slope.
+
+- Assuming the line after $(3,-2)$ is $y = mx + b$, and it passes through $(3,-2)$:
+  $-2 = 3m + b$
+
+Since we do not have another point to directly calculate $m$ and $b$ for this part, let's analyze the behavior:
+
+The graph indicates a sharp turn at $(3,-2)$, suggesting a possible absolute value function or a piecewise function with a change in slope at $x=3$. 
+
+Given points suggest a linear function before $x=3$ and another linear function after $x=3$. 
+
+## Step 3: Finding the correct piecewise function.
+
+From $(0,1)$ to $(1,0)$ and $(1,0)$ to $(3,-2)$, the slope is $-1$. 
+
+The equation before $x=3$ can be represented as $y = -x + 1$.
+
+For $x \geq 3$, assuming a linear function with a positive slope (since it increases after $x=3$):
+
+- Slope $m_3 = \frac{y - (-2)}{x - 3}$, but without another point, let's consider it increases linearly.
+
+## Step 4: Determine the equation after $x=3$.
+
+Given $(3,-2)$ and assuming it goes through $(5,0)$ based on the graph:
+
+- Slope $m_3 = \frac{0 - (-2)}{5 - 3} = 1$
+- Equation using point-slope form:
+  $y + 2 = 1(x - 3)$
+  $y = x - 5$
+
+## Step 5: Define the piecewise function.
+
+Based on the calculations:
+
+$f(x) = \begin{cases} 
+-x + 1 & \text{if } x \leq 3 \\
+x - 5 & \text{if } x > 3
+\end{cases}$
+
+The final answer is: $\boxed{f(x) = \begin{cases} 
+-x + 1 & \text{if } x \leq 3 \\
+x - 5 & \text{if } x > 3
+\end{cases}}$
+    </td>
+  </tr>
 </table>
 
+```
+Ground Truth : 	
+When x<=3 f(x)=-x+1, when x>3, f(x)=x-5
+```
 
+
+This sample is one of the cases that tests piece-wise function reasoning of VLMs and the ability to do a "cross reference", under perturbations. The piece-wise reasoning of Gemma 4B and Mistral 24B
+are inherently weak, despite successfully recovering information from image when the text is corrupted or vice-versa. On the other hand, Llama Scout 4 shows successful cross referencing and remarkable
+piecewise function reasoning. The reasoning remains consistently accurate (or close to accurate) across runs, unlike Mistral 24B. The reasoning traces for each of the models along with all configurations
+of inputs are shared in the `Graphs` directory. 
+<br> These instances show potential for LLama 4 Scout to adopt dynamic cross referencing in complex functions/graph-based questions.
