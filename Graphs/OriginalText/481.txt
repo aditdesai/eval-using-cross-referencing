@@ -1,0 +1,1 @@
+Find the domain and range of the function f using interval notation, which goes through (-2,-4), (-1,-2), (0,0), (1,-4), with a hollow point (-3,0).

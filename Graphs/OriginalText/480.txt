@@ -1,0 +1,1 @@
+There are 4 labels on the x-axis $-\pi$, $-\frac{2}{\pi}$, $\frac{2}{\pi}$, $\pi$ and a curve that goes through ($\frac{2}{\pi}$,0). Determine if this relation is a one-to-one function.

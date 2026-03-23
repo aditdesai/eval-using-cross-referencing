@@ -1,0 +1,1 @@
+There is a quadratic function going through (-2,1), (-1,2), (0,1). Write an equation for the graphed function f.

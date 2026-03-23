@@ -1,0 +1,1 @@
+There is a curve that goes through (-3,0), (-2,1), and (-1,2). Determine if this relation is a one-to-one function.

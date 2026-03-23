@@ -1,0 +1,1 @@
+There is a quadratic function, which goes through (0,0), (20,0) and opens upward. Determine whether the graph represents a one-to-one function.

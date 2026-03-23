@@ -1,0 +1,1 @@
+There is a curve goes through (-5,2), (-1,0), and (3,2). The point at (-5,2) and (3,2) are respectively solid and hollow. Write the domain and range of the function using interval notation.

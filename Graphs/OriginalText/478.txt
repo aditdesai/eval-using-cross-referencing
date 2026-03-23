@@ -1,0 +1,1 @@
+There is an ellipse, for which the domain is from -3 to -1 and the range is from -1 to 3. Determine if this relation is a one-to-one function.

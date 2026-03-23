@@ -1,0 +1,1 @@
+Function f in blue is a parabola as $y=x^2$. Function g in red can be thought of as a translated (shifted) version of f(x)=x^2. Write the equation for g(x).

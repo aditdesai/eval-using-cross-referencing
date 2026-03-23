@@ -1,0 +1,2 @@
+	
+There is an odd function f going through (0,0). Estimate the point(s) at which the graph of f has a local maximum or a local minimum.

@@ -1,0 +1,1 @@
+There is a piecewise function going through points (-3, 0), (0, 5), and (3, 5). Write the domain and range of the function using interval notation.

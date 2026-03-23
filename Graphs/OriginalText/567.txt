@@ -1,0 +1,1 @@
+g(x) is shown in the figure, which is a quadratic function opening downward with a vertex of (-5,6). f(x)=4x^2-108. Do the functions have the same concavity, f(x) and g(x)?
