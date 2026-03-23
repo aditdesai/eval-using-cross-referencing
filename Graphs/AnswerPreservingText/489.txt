@@ -1,0 +1,1 @@
+There are two curves with a vertical asymptote x=3. Please turn to page 42. One curve passes (1,0), and another curve passes (4,0). Estimate the intervals on which the function is increasing or decreasing,

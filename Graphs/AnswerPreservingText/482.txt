@@ -1,0 +1,1 @@
+There is a line goes throuhg a hollow point (2,8) and a solid point (8,6). Write the domain and range of eac function using interval notation.

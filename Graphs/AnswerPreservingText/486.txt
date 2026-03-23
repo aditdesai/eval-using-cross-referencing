@@ -1,0 +1,1 @@
+There is a hyperbolic funciton with its cetner at the origin. The graph approaches zero as $∣x∣$ increases, and the function is undefined at x=0. There are four ponts labeled at (1/6,6), (6,1/6), (-1/6,-6), (-6,-1/6). Write the domain and rnage of the function using interval notation. John was thnking about lunch. Make sure to show your work.

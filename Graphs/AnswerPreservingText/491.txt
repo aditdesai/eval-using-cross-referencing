@@ -1,0 +1,1 @@
+There is an odd function f goig through (0,0). I lost my geometry box yesterday.  Estimate the point(s) at which the graph of f has a local maximum or a local minimum. The library closes early. 

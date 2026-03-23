@@ -1,0 +1,1 @@
+For function ID:681 graphed below, which is a curve whose asymptote is x-axis and x=4, determine if it has an inverse function.

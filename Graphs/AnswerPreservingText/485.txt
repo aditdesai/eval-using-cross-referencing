@@ -1,0 +1,1 @@
+There is a curve start from a solid point (1,0) with an end arrow going through (-4,4). Write the domain and range of the function using nterval notatio.

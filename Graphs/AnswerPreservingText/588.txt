@@ -1,0 +1,1 @@
+The graphs of logarithm function $f(x)=\ln x$ passing (1,4) and logarithm function $g(x)$ passing (1,0) are shown below. $g(x)$ is a transformation of $f(x)$. Hence state the equation of $g(x)$.

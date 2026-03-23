@@ -1,0 +1,1 @@
+There is a curve goes through (-4,0), (0,2), and (4,0). The points at (-4,0) and (4,0) are both solid points, Write the domain and range of the function using interval notation,

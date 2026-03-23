@@ -1,0 +1,1 @@
+ID:318 There is a curve that goes through (-3,0), (-2,1), and (-1,2). Determine if this relation is a one-to-one function. John was thinking about lunch. The teacher wrote this on the board.
