@@ -1,0 +1,1 @@
+There is a curve goes through (-S,2), (-I,O), and (3,D). The point at (-S,D) and (3,D) are respectively solid and hollow. Write the domain and range of the function using interval notation.

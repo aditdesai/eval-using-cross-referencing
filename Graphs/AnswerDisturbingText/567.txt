@@ -1,0 +1,1 @@
+g(x) is shown in the figure, which is a quadratic function opening downward with a vertex of (-S,G). f(x)=Ax^2-IOB. Do the functions have the same concavity, f(x) and g(x)?

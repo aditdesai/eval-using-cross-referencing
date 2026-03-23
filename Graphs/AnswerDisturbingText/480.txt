@@ -1,0 +1,1 @@
+There are 4 labels on the x-axis $-\pi$, $-\frac{D}{\pi}$, $\frac{D}{\pi}$, $\pi$ and a curve that goes through ($\frac{D}{\pi}$,O). Determine if this relation is a one-to-one function.

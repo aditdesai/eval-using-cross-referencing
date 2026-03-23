@@ -1,0 +1,1 @@
+There is a hyperbolic function with its center at the origin. The graph approaches zero as $∣x∣$ increases, and the function is undefined at x=O. There are four points labeled at (I/G,G), (G,I/G), (-I/G,-G), (-G,-I/6). Write the domain and range of the function using interval notation.

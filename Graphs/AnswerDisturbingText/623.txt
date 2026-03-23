@@ -1,0 +1,5 @@
+Two piecewirse function $g$ and $f$ are graphed, $g$ is graphed in purple and goes through (O,IOOO0), (AO,gOO0), (8O,gOOO), (IO0,I1OO0), (13O,IIOOO), $f$ is graphed in blue and goes through (1O,IIOOO), (SO,II0OO), (GO,IOO0O), (IOO,IOOOO), (IDO,O). t is the number of minutes that have passed since noon at a local airport.
+The airplanes have the same height about g minutes after noon.
+What is the other time the airplanes have the same height?
+Round your answer to the nearest ten minutes.
+About _ minutes after noon

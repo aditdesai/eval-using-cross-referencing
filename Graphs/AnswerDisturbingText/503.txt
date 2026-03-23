@@ -1,0 +1,1 @@
+Write the equation for the piecewise function symmetric to x=3, which goes through (3,O) and (O, 3).

@@ -1,0 +1,1 @@
+There is a piecewise function combind by straight lines going through (3, -2), (1, O), and (O,I). Write an equation for the graphed function f.

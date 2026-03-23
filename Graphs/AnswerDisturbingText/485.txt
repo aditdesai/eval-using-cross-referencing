@@ -1,0 +1,1 @@
+There is a curve start from a solid point (I,0) with an end arrow going through (-A,A). Write the domain and range of the function using interval notation.
