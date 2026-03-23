@@ -41,3 +41,29 @@ KDD BlueSky Submission titled "Beyond Accuracy: Toward Human-Cognitive Evaluatio
 <td align='center'>There is a point at 4 and a blue arrow goes to left from that point. [Page 1814] Write the set of numbers represented on the number line in interval notation.</td>
 </tr>
 </table>
+
+
+## TEXT + IMAGE MODALITY USED (Answer-Disturbing Perturbation in Either Modality)
+
+<table align='center'>
+
+<tr>
+<th>Original Text + Original Image</th>
+<th>Original Text + Perturbed Image</th>
+<th>Perturbed Text + Original Image</th>
+</tr>
+
+<tr>
+  <td align = "center">There is an ellipse, for which the domain is from -3 to -1 and the range is from -1 to 3. Determine if this relation is a one-to-one function.</td>
+  <td align = "center">There is an ellipse, for which the domain is from -3 to -1 and the range is from -1 to 3. Determine if this relation is a one-to-one function.</td>
+  <td align = "center">There is an ellipse, for which the domain is from -3 to -1 and the range is from -I to 3. Determine if this relation is a one-to-one function.</td>
+</tr>
+
+<tr>
+  <td align = "center"><img src="https://github.com/user-attachments/assets/e2708b6e-d18b-4bed-a779-8e5c115b3579" width = "300"/></td>
+  <td align = "center"><img src="https://github.com/user-attachments/assets/24a8bf1f-2efb-4820-8c88-6dfcf73923b3" width = "300"/></td>
+  <td align = "center"><img src="https://github.com/user-attachments/assets/e2708b6e-d18b-4bed-a779-8e5c115b3579" width = "300"/></td>
+</tr>
+</table>
+
+
