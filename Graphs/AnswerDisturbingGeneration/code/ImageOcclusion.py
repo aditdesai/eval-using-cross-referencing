@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-API_KEY = "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"
+API_KEY = "your_api_key"
 
 MODEL_ID = "google/gemini-3-pro-image-preview"
 API_URL = "https://openrouter.ai/api/v1/chat/completions"
